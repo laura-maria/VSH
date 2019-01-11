@@ -31,3 +31,10 @@ kirjutasin sinna: <?php phpinfo(); ?>
 172.23.13.39/test.php #tegin HTML keeles väikese scripti, kuna PHP keelt ma ei oska
 
 ja see töötab
+
+------------------------------
+
+#PHP my admin
+
+juhend: 
+https://www.codero.com/knowledge-base/content/24/415/en/installing-phpmyadmin-on-debian-8.html
