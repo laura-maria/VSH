@@ -38,3 +38,7 @@ ja see töötab
 
 juhend: 
 https://www.codero.com/knowledge-base/content/24/415/en/installing-phpmyadmin-on-debian-8.html
+
+logisin sisse: http://172.23.13.39/phpmyadmin/
+
+kasutajanimi root ja parooliks qwerty
