@@ -1,4 +1,4 @@
-+praks 3
+# praks 3
 
 php ja mysql'i pakettide paigaldamine website - https://wiki.debian.org/LaMp
 
@@ -42,3 +42,20 @@ https://www.codero.com/knowledge-base/content/24/415/en/installing-phpmyadmin-on
 logisin sisse: http://172.23.13.39/phpmyadmin/
 
 kasutajanimi root ja parooliks qwerty
+
+
+
+
+
+# praks4
+
+ülesandeks oli https sertifikaat teha
+
+tegin juhendi järgi:https://www.digitalocean.com/community/tutorials/how-to-create-a-ssl-certificate-on-apache-for-debian-8?fbclid=IwAR1gZGHBANP6aXdGnUQwKlRAtyJbFTvUCpqBaHZXS8rtmqi83LHU4qeRI9k
+
+
+
+
+
+# praks5
+
