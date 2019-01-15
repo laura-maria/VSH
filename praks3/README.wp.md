@@ -45,7 +45,7 @@ kasutajanimi root ja parooliks qwerty
 
 
 
-
+------------------------------------------------------------------------
 
 # praks4
 
@@ -55,7 +55,10 @@ tegin juhendi järgi:https://www.digitalocean.com/community/tutorials/how-to-cre
 
 
 
-
+--------------------------------------------------------------------------
 
 # praks5
 
+ülesandeks oli wordpress installida ja enda veebileht ülesse seada
+
+tegin selle juhendi järgi: https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-on-ubuntu-14-04
