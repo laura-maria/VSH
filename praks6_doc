@@ -1,0 +1,27 @@
+# praks6
+--------------------------------
+# andmebaasiserver server (db masin)
+
+juhend: https://www.digitalocean.com/community/tutorials/how-to-import-and-export-databases-in-mysql-or-mariadb
+
+# LAMP (apache ja db masinale)
+
+juhend: https://wiki.debian.org/LaMp
+
+# wordpress (apache masin)
+
+juhend: https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-on-ubuntu-14-04
+
+# sertifikaadi paigaldamine (apache masin)
+
+juhend: https://www.digitalocean.com/community/tutorials/how-to-create-a-ssl-certificate-on-apache-for-debian-8?fbclid=IwAR1gZGHBANP6aXdGnUQwKlRAtyJbFTvUCpqBaHZXS8rtmqi83LHU4qeRI9k
+
+# minu masinad
+
+1. klienti ma ei saanud installida, kuna mul polnud piisavalt kettal ruumi
+
+2. apache masinas vahetasin ära networki, kuna ma  ei saanud teist apache masinat teha vähese ketta ruumi töttu
+
+3. db masina ma kloonisin
+
+4. vsh on põhiomasin, millest ma loon kloone
